@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_A">Welcome to Fragment A</string>
+    <string name="fragment_B">Welcome to Fragment B</string>
+    <string name="fragment_C">Welcome to Fragment C</string>
+    <string name="btn_A">A</string>
+    <string name="btn_B">B</string>
+    <string name="btn_C">C</string>
+    <string name="btn_A_send">Send to A</string>
+    <string name="btn_B_send">Send to B</string>
+    <string name="btn_C_send">Send to A</string>
+</resources>
